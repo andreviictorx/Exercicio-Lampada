@@ -32,4 +32,5 @@ turnOn.addEventListener('click', lampOn)
 lamp.addEventListener('mousemove', lampOn)
 lamp.addEventListener('mouseleave', lampOff)
 lamp.addEventListener('dblclick', lampBroken)
+//testando a diferença dos commit
 
