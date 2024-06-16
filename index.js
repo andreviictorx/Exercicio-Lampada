@@ -33,4 +33,4 @@ lamp.addEventListener('mousemove', lampOn)
 lamp.addEventListener('mouseleave', lampOff)
 lamp.addEventListener('dblclick', lampBroken)
 //testando a diferença dos commit
-
+// testando alteração no git
